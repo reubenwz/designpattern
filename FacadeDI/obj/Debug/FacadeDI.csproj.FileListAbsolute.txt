@@ -1,0 +1,11 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\bin\Debug\FacadeDI.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\bin\Debug\FacadeDI.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\bin\Debug\FacadeDI.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\bin\Debug\DryIoc.dll
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\bin\Debug\System.ValueTuple.dll
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\bin\Debug\DryIoc.xml
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\bin\Debug\System.ValueTuple.xml
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\obj\Debug\FacadeDI.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\obj\Debug\FacadeDI.csproj.CopyComplete
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\obj\Debug\FacadeDI.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\FacadeDI\obj\Debug\FacadeDI.pdb

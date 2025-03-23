@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\MethodChaining\bin\Debug\MethodChaining.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\MethodChaining\bin\Debug\MethodChaining.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\MethodChaining\bin\Debug\MethodChaining.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\MethodChaining\obj\Debug\MethodChaining.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\MethodChaining\obj\Debug\MethodChaining.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\MethodChaining\obj\Debug\MethodChaining.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\MethodChaining\obj\Debug\MethodChaining.pdb

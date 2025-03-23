@@ -1,0 +1,6 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PropertyProxy\bin\Debug\PropertyProxy.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PropertyProxy\bin\Debug\PropertyProxy.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PropertyProxy\bin\Debug\PropertyProxy.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PropertyProxy\obj\Debug\PropertyProxy.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PropertyProxy\obj\Debug\PropertyProxy.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PropertyProxy\obj\Debug\PropertyProxy.pdb

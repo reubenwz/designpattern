@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\VirtualProxy\bin\Debug\VirtualProxy.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\VirtualProxy\bin\Debug\VirtualProxy.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\VirtualProxy\bin\Debug\VirtualProxy.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\VirtualProxy\obj\Debug\VirtualProxy.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\VirtualProxy\obj\Debug\VirtualProxy.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\VirtualProxy\obj\Debug\VirtualProxy.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\VirtualProxy\obj\Debug\VirtualProxy.pdb

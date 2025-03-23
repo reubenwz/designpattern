@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ViewModel\bin\Debug\ViewModel.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ViewModel\bin\Debug\ViewModel.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ViewModel\obj\Debug\ViewModel.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ViewModel\obj\Debug\ViewModel.pdb

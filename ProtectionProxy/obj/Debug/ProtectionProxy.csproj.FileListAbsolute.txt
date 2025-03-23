@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ProtectionProxy\bin\Debug\ProtectionProxy.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ProtectionProxy\bin\Debug\ProtectionProxy.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ProtectionProxy\bin\Debug\ProtectionProxy.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ProtectionProxy\obj\Debug\ProtectionProxy.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ProtectionProxy\obj\Debug\ProtectionProxy.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ProtectionProxy\obj\Debug\ProtectionProxy.pdb

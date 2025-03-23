@@ -1,0 +1,6 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Mediator\bin\Debug\Mediator.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Mediator\bin\Debug\Mediator.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Mediator\obj\Debug\Mediator.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Mediator\obj\Debug\Mediator.pdb

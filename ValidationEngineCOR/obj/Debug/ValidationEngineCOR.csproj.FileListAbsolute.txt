@@ -1,0 +1,6 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineCOR\bin\Debug\ValidationEngineCOR.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineCOR\bin\Debug\ValidationEngineCOR.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineCOR\bin\Debug\ValidationEngineCOR.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineCOR\obj\Debug\ValidationEngineCOR.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineCOR\obj\Debug\ValidationEngineCOR.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineCOR\obj\Debug\ValidationEngineCOR.pdb

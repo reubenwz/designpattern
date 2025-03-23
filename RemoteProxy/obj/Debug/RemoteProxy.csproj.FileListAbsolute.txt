@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\RemoteProxy\obj\Debug\RemoteProxy.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\RemoteProxy\obj\Debug\RemoteProxy.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\RemoteProxy\bin\Debug\RemoteProxy.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\RemoteProxy\bin\Debug\RemoteProxy.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\RemoteProxy\bin\Debug\RemoteProxy.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\RemoteProxy\obj\Debug\RemoteProxy.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\RemoteProxy\obj\Debug\RemoteProxy.pdb
