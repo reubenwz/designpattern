@@ -1,0 +1,10 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\bin\Debug\BridgeDependencyInjection.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\bin\Debug\BridgeDependencyInjection.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\bin\Debug\BridgeDependencyInjection.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\bin\Debug\System.ValueTuple.dll
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\bin\Debug\System.ValueTuple.xml
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\obj\Debug\BridgeDependencyInjection.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\obj\Debug\BridgeDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\obj\Debug\BridgeDependencyInjection.csproj.CopyComplete
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\obj\Debug\BridgeDependencyInjection.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BridgeDependencyInjection\obj\Debug\BridgeDependencyInjection.pdb

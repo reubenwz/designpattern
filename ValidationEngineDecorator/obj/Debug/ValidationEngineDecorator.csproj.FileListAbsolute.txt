@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineDecorator\bin\Debug\ValidationEngineDecorator.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineDecorator\bin\Debug\ValidationEngineDecorator.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineDecorator\bin\Debug\ValidationEngineDecorator.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineDecorator\obj\Debug\ValidationEngineDecorator.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineDecorator\obj\Debug\ValidationEngineDecorator.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineDecorator\obj\Debug\ValidationEngineDecorator.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ValidationEngineDecorator\obj\Debug\ValidationEngineDecorator.pdb

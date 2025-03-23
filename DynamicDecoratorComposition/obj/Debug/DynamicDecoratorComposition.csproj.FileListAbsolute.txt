@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorComposition\bin\Debug\DynamicDecoratorComposition.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorComposition\bin\Debug\DynamicDecoratorComposition.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorComposition\bin\Debug\DynamicDecoratorComposition.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorComposition\obj\Debug\DynamicDecoratorComposition.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorComposition\obj\Debug\DynamicDecoratorComposition.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorComposition\obj\Debug\DynamicDecoratorComposition.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorComposition\obj\Debug\DynamicDecoratorComposition.pdb

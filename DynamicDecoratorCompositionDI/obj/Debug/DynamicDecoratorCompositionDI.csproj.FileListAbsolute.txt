@@ -1,0 +1,11 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\bin\Debug\DynamicDecoratorCompositionDI.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\bin\Debug\DynamicDecoratorCompositionDI.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\bin\Debug\DynamicDecoratorCompositionDI.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\bin\Debug\DryIoc.dll
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\bin\Debug\System.ValueTuple.dll
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\bin\Debug\DryIoc.xml
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\bin\Debug\System.ValueTuple.xml
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\obj\Debug\DynamicDecoratorCompositionDI.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\obj\Debug\DynamicDecoratorCompositionDI.csproj.CopyComplete
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\obj\Debug\DynamicDecoratorCompositionDI.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DynamicDecoratorCompositionDI\obj\Debug\DynamicDecoratorCompositionDI.pdb
