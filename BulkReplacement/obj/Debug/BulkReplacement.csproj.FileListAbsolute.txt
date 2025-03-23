@@ -1,0 +1,6 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BulkReplacement\bin\Debug\BulkReplacement.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BulkReplacement\bin\Debug\BulkReplacement.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BulkReplacement\bin\Debug\BulkReplacement.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BulkReplacement\obj\Debug\BulkReplacement.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BulkReplacement\obj\Debug\BulkReplacement.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\BulkReplacement\obj\Debug\BulkReplacement.pdb

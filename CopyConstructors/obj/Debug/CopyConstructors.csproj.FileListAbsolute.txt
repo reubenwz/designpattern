@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\CopyConstructors\bin\Debug\CopyConstructors.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\CopyConstructors\bin\Debug\CopyConstructors.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\CopyConstructors\bin\Debug\CopyConstructors.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\CopyConstructors\obj\Debug\CopyConstructors.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\CopyConstructors\obj\Debug\CopyConstructors.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\CopyConstructors\obj\Debug\CopyConstructors.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\CopyConstructors\obj\Debug\CopyConstructors.pdb

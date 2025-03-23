@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Monostate\bin\Debug\Monostate.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Monostate\bin\Debug\Monostate.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Monostate\bin\Debug\Monostate.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Monostate\obj\Debug\Monostate.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Monostate\obj\Debug\Monostate.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Monostate\obj\Debug\Monostate.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\Monostate\obj\Debug\Monostate.pdb

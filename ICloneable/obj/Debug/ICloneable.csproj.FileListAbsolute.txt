@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ICloneable\bin\Debug\ICloneable.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ICloneable\bin\Debug\ICloneable.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ICloneable\bin\Debug\ICloneable.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ICloneable\obj\Debug\ICloneable.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ICloneable\obj\Debug\ICloneable.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ICloneable\obj\Debug\ICloneable.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\ICloneable\obj\Debug\ICloneable.pdb
