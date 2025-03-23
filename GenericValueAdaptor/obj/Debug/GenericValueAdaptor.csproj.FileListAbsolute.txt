@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\GenericValueAdaptor\bin\Debug\GenericValueAdaptor.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\GenericValueAdaptor\bin\Debug\GenericValueAdaptor.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\GenericValueAdaptor\bin\Debug\GenericValueAdaptor.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\GenericValueAdaptor\obj\Debug\GenericValueAdaptor.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\GenericValueAdaptor\obj\Debug\GenericValueAdaptor.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\GenericValueAdaptor\obj\Debug\GenericValueAdaptor.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\GenericValueAdaptor\obj\Debug\GenericValueAdaptor.pdb

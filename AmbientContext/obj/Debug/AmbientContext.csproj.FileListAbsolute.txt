@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\AmbientContext\bin\Debug\AmbientContext.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\AmbientContext\bin\Debug\AmbientContext.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\AmbientContext\bin\Debug\AmbientContext.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\AmbientContext\obj\Debug\AmbientContext.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\AmbientContext\obj\Debug\AmbientContext.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\AmbientContext\obj\Debug\AmbientContext.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\AmbientContext\obj\Debug\AmbientContext.pdb

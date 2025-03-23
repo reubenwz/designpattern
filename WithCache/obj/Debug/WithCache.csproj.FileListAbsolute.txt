@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\WithCache\bin\Debug\WithCache.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\WithCache\bin\Debug\WithCache.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\WithCache\bin\Debug\WithCache.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\WithCache\obj\Debug\WithCache.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\WithCache\obj\Debug\WithCache.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\WithCache\obj\Debug\WithCache.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\WithCache\obj\Debug\WithCache.pdb

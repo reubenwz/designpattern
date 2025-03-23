@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\NoCaching\bin\Debug\NoCaching.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\NoCaching\bin\Debug\NoCaching.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\NoCaching\bin\Debug\NoCaching.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\NoCaching\obj\Debug\NoCaching.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\NoCaching\obj\Debug\NoCaching.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\NoCaching\obj\Debug\NoCaching.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\NoCaching\obj\Debug\NoCaching.pdb

@@ -1,0 +1,12 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\obj\Debug\SingletonDependencyInjection.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\obj\Debug\SingletonDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\bin\Debug\SingletonDependencyInjection.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\bin\Debug\SingletonDependencyInjection.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\bin\Debug\SingletonDependencyInjection.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\bin\Debug\DryIoc.dll
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\bin\Debug\System.ValueTuple.dll
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\bin\Debug\DryIoc.xml
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\bin\Debug\System.ValueTuple.xml
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\obj\Debug\SingletonDependencyInjection.csproj.CopyComplete
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\obj\Debug\SingletonDependencyInjection.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\SingletonDependencyInjection\obj\Debug\SingletonDependencyInjection.pdb

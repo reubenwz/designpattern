@@ -1,0 +1,7 @@
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PerThreadSingleton\bin\Debug\PerThreadSingleton.exe.config
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PerThreadSingleton\bin\Debug\PerThreadSingleton.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PerThreadSingleton\bin\Debug\PerThreadSingleton.pdb
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PerThreadSingleton\obj\Debug\PerThreadSingleton.csprojAssemblyReference.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PerThreadSingleton\obj\Debug\PerThreadSingleton.csproj.CoreCompileInputs.cache
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PerThreadSingleton\obj\Debug\PerThreadSingleton.exe
+C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\PerThreadSingleton\obj\Debug\PerThreadSingleton.pdb
