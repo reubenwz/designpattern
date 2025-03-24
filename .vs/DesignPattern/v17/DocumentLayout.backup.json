@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reuben\\Desktop\\dev\\designpattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E433BC-1E74-4DDA-B63B-719595F852E2}|CompositeCommand\\CompositeCommand.csproj|c:\\users\\reuben\\desktop\\dev\\designpattern\\compositecommand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E433BC-1E74-4DDA-B63B-719595F852E2}|CompositeCommand\\CompositeCommand.csproj|solutionrelative:compositecommand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB8A5EA-3928-4E53-8C86-FC0365D3DCE3}|CommandExample\\CommandExample.csproj|c:\\users\\reuben\\desktop\\dev\\designpattern\\commandexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB8A5EA-3928-4E53-8C86-FC0365D3DCE3}|CommandExample\\CommandExample.csproj|solutionrelative:commandexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415B75E6-7348-474E-B4AA-F0B2E5B8B276}|DesignPattern\\Factories.csproj|c:\\users\\reuben\\desktop\\dev\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415B75E6-7348-474E-B4AA-F0B2E5B8B276}|DesignPattern\\Factories.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Reuben\\Desktop\\dev\\designpattern\\CompositeCommand\\Program.cs",
+              "RelativeDocumentMoniker": "CompositeCommand\\Program.cs",
+              "ToolTip": "C:\\Users\\Reuben\\Desktop\\dev\\designpattern\\CompositeCommand\\Program.cs",
+              "RelativeToolTip": "CompositeCommand\\Program.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAiwIYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:07:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Reuben\\Desktop\\dev\\designpattern\\DesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Reuben\\Desktop\\dev\\designpattern\\DesignPattern\\Program.cs",
+              "RelativeToolTip": "DesignPattern\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA4wFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:36:48.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Reuben\\Desktop\\dev\\designpattern\\CommandExample\\Program.cs",
+              "RelativeDocumentMoniker": "CommandExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Reuben\\Desktop\\dev\\designpattern\\CommandExample\\Program.cs",
+              "RelativeToolTip": "CommandExample\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswIwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:19:54.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

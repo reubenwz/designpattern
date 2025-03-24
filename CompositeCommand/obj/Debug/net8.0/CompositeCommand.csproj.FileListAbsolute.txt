@@ -1,0 +1,15 @@
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\bin\Debug\net8.0\CompositeCommand.exe
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\bin\Debug\net8.0\CompositeCommand.deps.json
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\bin\Debug\net8.0\CompositeCommand.runtimeconfig.json
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\bin\Debug\net8.0\CompositeCommand.dll
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\bin\Debug\net8.0\CompositeCommand.pdb
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\CompositeCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\CompositeCommand.AssemblyInfoInputs.cache
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\CompositeCommand.AssemblyInfo.cs
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\CompositeCommand.csproj.CoreCompileInputs.cache
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\CompositeCommand.sourcelink.json
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\CompositeCommand.dll
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\refint\CompositeCommand.dll
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\CompositeCommand.pdb
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\CompositeCommand.genruntimeconfig.cache
+C:\Users\Reuben\Desktop\dev\designpattern\CompositeCommand\obj\Debug\net8.0\ref\CompositeCommand.dll

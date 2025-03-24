@@ -5,3 +5,10 @@ C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DesignPattern\obj\
 C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DesignPattern\obj\Debug\Factories.csproj.CoreCompileInputs.cache
 C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
 C:\Users\reube\Desktop\Udemy\DesignPatterns\dev\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\Reuben\Desktop\dev\designpattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\Reuben\Desktop\dev\designpattern\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\Reuben\Desktop\dev\designpattern\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\Reuben\Desktop\dev\designpattern\DesignPattern\obj\Debug\Factories.csproj.AssemblyReference.cache
+C:\Users\Reuben\Desktop\dev\designpattern\DesignPattern\obj\Debug\Factories.csproj.CoreCompileInputs.cache
+C:\Users\Reuben\Desktop\dev\designpattern\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\Reuben\Desktop\dev\designpattern\DesignPattern\obj\Debug\DesignPattern.pdb
